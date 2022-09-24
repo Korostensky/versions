@@ -1,1 +1,1 @@
-# My personal version checker
+# My personal AAPS version checker.
